@@ -23,4 +23,4 @@ Wholesale Customers - The high value customer segment as the customers in this g
 
 Average Customers - The average customer segment. These customers order less frequent than the wholesale customers and their orders are pretty low valued and also rarely shop.
 
-7.We can conclude that K-means clustering and Hierarchical clustering can be used for this dataset to segment customers based on RFM analysis.
+7.We can conclude that K-means clustering and Hierarchical clustering can be used for this dataset to segment customers based on RFM analysis..
